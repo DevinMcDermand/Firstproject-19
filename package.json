@@ -1,0 +1,27 @@
+{
+  "name": "firstproject-19",
+  "version": "0.1.0",
+  "description": "This module is to practice how to create a new directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinMcDermand/Firstproject-19.git"
+  },
+  "keywords": [
+    "first",
+    "test",
+    "project"
+  ],
+  "author": "Devin McDermand <devinmcdermand@gmail.com> (https://github.com/DevinMcDermand)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevinMcDermand/Firstproject-19/issues"
+  },
+  "homepage": "https://github.com/DevinMcDermand/Firstproject-19#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
